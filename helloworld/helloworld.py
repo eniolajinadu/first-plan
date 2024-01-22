@@ -5,3 +5,4 @@ b = 34
 print (b+a)
 
 print ("Hello World: Python Edition")
+print (b+a+a)
